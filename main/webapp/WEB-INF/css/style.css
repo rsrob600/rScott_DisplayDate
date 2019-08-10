@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+
+.container{
+	width: 900px;
+	height: auto;
+	margin: 0px auto;
+	line-height: 500px;
+	text-align: center;
+}
+
+ul.navbar li {
+	display: inline;
+	margin: 0px;
+	padding: 150px;
+	list-style: none;
+}
+
+
+h1 {
+	text-align: center;
+	line-height: 500px;
+}
+
+
+#time .time h1 {
+        color: green;
+}
+
+
+#date .date h1 {
+        color: blue;
+}
